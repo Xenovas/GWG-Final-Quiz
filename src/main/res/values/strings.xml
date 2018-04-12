@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ham Radio Basics Quiz</string>
+    // The following strings are all relate to question 1
+    <string name="question1">Which Frequencies are in the 2m band?</string>
+    <string name="q1a1">144.000MHz</string>
+    <string name="q1a2">145.325MHz</string>
+    <string name="q1a3">146.000MHz</string>
+    <string name="q1a4">147.500MHz</string>
+    //The following strings are all relate to question 2
+    <string name="question2">What is the frequency range of the 70cm band?</string>
+    <string name="q2a1">400.000MHz - 520.000MHz</string>
+    <string name="q2a2">410.000MHz - 510.000MHz</string>
+    <string name="q2a3">420.000MHz - 500.000MHz</string>
+    <string name="q2a4">430.000MHz - 440.000MHz</string>
+    //The following strings all relate to question 3
+    <string name="question3">Is the antenna or the amount of power more important?</string>
+    //The following strings all relate to question 4
+    <string name="question4">What is the biggest interference in long range transmissions?</string>
+
+</resources>
